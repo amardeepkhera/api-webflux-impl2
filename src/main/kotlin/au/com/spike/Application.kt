@@ -1,4 +1,4 @@
-package au.com.spike.api_webflux_base
+package au.com.spike
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
