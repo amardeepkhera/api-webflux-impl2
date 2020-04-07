@@ -4,4 +4,7 @@ import org.springframework.stereotype.Controller
 
 @Controller
 class DocumentationController {
+
+
+    fun apiDoc() {}
 }
