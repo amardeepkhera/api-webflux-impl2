@@ -7,5 +7,5 @@ import org.springframework.context.annotation.Configuration
 class WebConfig {
 
     @Bean
-    fun webConfig(){}
+    fun webConfig1(){}
 }
