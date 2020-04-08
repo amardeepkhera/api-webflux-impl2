@@ -8,4 +8,7 @@ class WebConfig {
 
     @Bean
     fun webConfig1(){}
+
+    @Bean
+    fun webConfig2(){}
 }
